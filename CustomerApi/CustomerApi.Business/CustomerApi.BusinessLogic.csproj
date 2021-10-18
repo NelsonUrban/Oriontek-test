@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Configurations\DepencyInjection\" />
+    <Folder Include="Services\Abstract\" />
+    <Folder Include="Services\Concrete\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CustomerApi.Custom\CustomerApi.Common.csproj" />
+    <ProjectReference Include="..\CustomerApi.DataAccess\CustomerApi.DataAccess.csproj" />
+    <ProjectReference Include="..\CustomerApi.Domain\CustomerApi.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

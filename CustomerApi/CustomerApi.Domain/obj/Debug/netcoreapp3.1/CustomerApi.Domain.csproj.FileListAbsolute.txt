@@ -1,0 +1,10 @@
+C:\Users\nurban\source\repos\CustomerApi\CustomerApi.Domain\bin\Debug\netcoreapp3.1\CustomerApi.Domain.deps.json
+C:\Users\nurban\source\repos\CustomerApi\CustomerApi.Domain\bin\Debug\netcoreapp3.1\CustomerApi.Domain.dll
+C:\Users\nurban\source\repos\CustomerApi\CustomerApi.Domain\bin\Debug\netcoreapp3.1\CustomerApi.Domain.pdb
+C:\Users\nurban\source\repos\CustomerApi\CustomerApi.Domain\obj\Debug\netcoreapp3.1\CustomerApi.Domain.csproj.AssemblyReference.cache
+C:\Users\nurban\source\repos\CustomerApi\CustomerApi.Domain\obj\Debug\netcoreapp3.1\CustomerApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nurban\source\repos\CustomerApi\CustomerApi.Domain\obj\Debug\netcoreapp3.1\CustomerApi.Domain.AssemblyInfoInputs.cache
+C:\Users\nurban\source\repos\CustomerApi\CustomerApi.Domain\obj\Debug\netcoreapp3.1\CustomerApi.Domain.AssemblyInfo.cs
+C:\Users\nurban\source\repos\CustomerApi\CustomerApi.Domain\obj\Debug\netcoreapp3.1\CustomerApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\nurban\source\repos\CustomerApi\CustomerApi.Domain\obj\Debug\netcoreapp3.1\CustomerApi.Domain.dll
+C:\Users\nurban\source\repos\CustomerApi\CustomerApi.Domain\obj\Debug\netcoreapp3.1\CustomerApi.Domain.pdb

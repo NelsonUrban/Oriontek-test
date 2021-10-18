@@ -1,0 +1,10 @@
+C:\Users\nurban\source\repos\CustomerApi\CustomerApi.Custom\bin\Debug\netcoreapp3.1\CustomerApi.Common.deps.json
+C:\Users\nurban\source\repos\CustomerApi\CustomerApi.Custom\bin\Debug\netcoreapp3.1\CustomerApi.Common.dll
+C:\Users\nurban\source\repos\CustomerApi\CustomerApi.Custom\bin\Debug\netcoreapp3.1\CustomerApi.Common.pdb
+C:\Users\nurban\source\repos\CustomerApi\CustomerApi.Custom\obj\Debug\netcoreapp3.1\CustomerApi.Common.csproj.AssemblyReference.cache
+C:\Users\nurban\source\repos\CustomerApi\CustomerApi.Custom\obj\Debug\netcoreapp3.1\CustomerApi.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nurban\source\repos\CustomerApi\CustomerApi.Custom\obj\Debug\netcoreapp3.1\CustomerApi.Common.AssemblyInfoInputs.cache
+C:\Users\nurban\source\repos\CustomerApi\CustomerApi.Custom\obj\Debug\netcoreapp3.1\CustomerApi.Common.AssemblyInfo.cs
+C:\Users\nurban\source\repos\CustomerApi\CustomerApi.Custom\obj\Debug\netcoreapp3.1\CustomerApi.Common.csproj.CoreCompileInputs.cache
+C:\Users\nurban\source\repos\CustomerApi\CustomerApi.Custom\obj\Debug\netcoreapp3.1\CustomerApi.Common.dll
+C:\Users\nurban\source\repos\CustomerApi\CustomerApi.Custom\obj\Debug\netcoreapp3.1\CustomerApi.Common.pdb

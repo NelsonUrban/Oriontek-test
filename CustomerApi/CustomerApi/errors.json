@@ -1,0 +1,21 @@
+{
+  "Errors": [
+    {
+      "Code": "unknown_exception",
+      "Message": "Ha ocurrido un error, vuelva a intentarlo si el error persiste comuniquese con soporte",
+      "Language": "ES"
+    },
+    {
+      "Code": "generic_not_found",
+      "Message": "No hay Datos para consultar en estos momentos.",
+      "Language": "ES"
+    },
+    {
+      "Code": "generic_not_found_by_id",
+      "Message": "No se pudo encontrar el Objecto seleccionado.",
+      "Language": "ES"
+    }
+
+  ]
+
+}

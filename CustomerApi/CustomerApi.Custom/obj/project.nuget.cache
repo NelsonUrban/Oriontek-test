@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "yE9ysFjv4hYeWfl6WB9rmk8UAn9QdMHJ1ACZdYGfMDaA5PVApxZOqSWhlJRi/aWUm2rI/mATP4FYPjKNI7Zt1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nurban\\source\\repos\\CustomerApi\\CustomerApi.Custom\\CustomerApi.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nurban\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\nurban\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\nurban\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.20\\microsoft.extensions.configuration.3.1.20.nupkg.sha512",
+    "C:\\Users\\nurban\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\nurban\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.20\\microsoft.extensions.configuration.binder.3.1.20.nupkg.sha512",
+    "C:\\Users\\nurban\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\nurban\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\nurban\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\nurban\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

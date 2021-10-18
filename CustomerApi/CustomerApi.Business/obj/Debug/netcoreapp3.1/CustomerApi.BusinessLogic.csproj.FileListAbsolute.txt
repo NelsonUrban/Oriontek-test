@@ -1,0 +1,16 @@
+C:\Users\nurban\source\repos\CustomerApi\CustomerApi.Business\bin\Debug\netcoreapp3.1\CustomerApi.BusinessLogic.deps.json
+C:\Users\nurban\source\repos\CustomerApi\CustomerApi.Business\bin\Debug\netcoreapp3.1\CustomerApi.BusinessLogic.dll
+C:\Users\nurban\source\repos\CustomerApi\CustomerApi.Business\bin\Debug\netcoreapp3.1\CustomerApi.BusinessLogic.pdb
+C:\Users\nurban\source\repos\CustomerApi\CustomerApi.Business\obj\Debug\netcoreapp3.1\CustomerApi.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\nurban\source\repos\CustomerApi\CustomerApi.Business\obj\Debug\netcoreapp3.1\CustomerApi.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nurban\source\repos\CustomerApi\CustomerApi.Business\obj\Debug\netcoreapp3.1\CustomerApi.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\nurban\source\repos\CustomerApi\CustomerApi.Business\obj\Debug\netcoreapp3.1\CustomerApi.BusinessLogic.AssemblyInfo.cs
+C:\Users\nurban\source\repos\CustomerApi\CustomerApi.Business\obj\Debug\netcoreapp3.1\CustomerApi.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\nurban\source\repos\CustomerApi\CustomerApi.Business\obj\Debug\netcoreapp3.1\CustomerApi.BusinessLogic.dll
+C:\Users\nurban\source\repos\CustomerApi\CustomerApi.Business\obj\Debug\netcoreapp3.1\CustomerApi.BusinessLogic.pdb
+C:\Users\nurban\source\repos\CustomerApi\CustomerApi.Business\bin\Debug\netcoreapp3.1\CustomerApi.Common.dll
+C:\Users\nurban\source\repos\CustomerApi\CustomerApi.Business\bin\Debug\netcoreapp3.1\CustomerApi.DataAccess.dll
+C:\Users\nurban\source\repos\CustomerApi\CustomerApi.Business\bin\Debug\netcoreapp3.1\CustomerApi.Domain.dll
+C:\Users\nurban\source\repos\CustomerApi\CustomerApi.Business\bin\Debug\netcoreapp3.1\CustomerApi.Common.pdb
+C:\Users\nurban\source\repos\CustomerApi\CustomerApi.Business\bin\Debug\netcoreapp3.1\CustomerApi.DataAccess.pdb
+C:\Users\nurban\source\repos\CustomerApi\CustomerApi.Business\bin\Debug\netcoreapp3.1\CustomerApi.Domain.pdb
