@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VHmA/ynKilRzroCwLr2n5x8jdDRRU/ZOkbCBadrhvLhcqCWImukcuCFQo4r4dBWx64zjuWnzdSLYCVqhbJ5alA==",
+  "dgSpecHash": "r4JCOd23Mckq2ewlL44+czTtb1mxzih6ewQzec4K+aHTF09i3+bQQgWv9X3cu1tTaLqfS1ndT7IuerNe5LB8aw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nurban\\source\\repos\\CustomerApi\\CustomerApi.Domain\\CustomerApi.Domain.csproj",
+  "projectFilePath": "C:\\Users\\nurban\\source\\repos\\Oriontek-test\\CustomerApi\\CustomerApi.Domain\\CustomerApi.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

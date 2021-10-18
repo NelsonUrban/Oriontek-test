@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OulbyhFuDXNfQNlEI/Ln0T7g/tkhcKC9+HmLrLw7bt0msZg5pCFBp+nZ/8iacA8hoF6iyz31LEmsOScI9KKsDA==",
+  "dgSpecHash": "iuppKkFOdIG4E1osouEMCMm5LjuwLsXk3IcljCYaPu82zudLJU3LzsO1O6UD1hTdbJVLYprx7BGJixC/uKniLQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nurban\\source\\repos\\CustomerApi\\CustomerApi.DataAccess\\CustomerApi.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\nurban\\source\\repos\\Oriontek-test\\CustomerApi\\CustomerApi.DataAccess\\CustomerApi.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nurban\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\nurban\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

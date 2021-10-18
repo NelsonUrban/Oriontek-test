@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MvejZ844QeNEpkoMBU/IwR5h6e93gJbzTIpFChnTIKIg/Zy1+b5LTrrxhXWUrJ4TlkIBmISAjXLZpXxvbNUZGA==",
+  "dgSpecHash": "Ceyi77mOCRI8PrWZphC7kc8zJERPBfLH9nOrO9MyOpPXEFC+iDQHrU/o5RLAXzXnhBvfjClLGKAF/e88FLlAmw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nurban\\source\\repos\\CustomerApi\\CustomerApi\\CustomerApi.csproj",
+  "projectFilePath": "C:\\Users\\nurban\\source\\repos\\Oriontek-test\\CustomerApi\\CustomerApi\\CustomerApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nurban\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\nurban\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

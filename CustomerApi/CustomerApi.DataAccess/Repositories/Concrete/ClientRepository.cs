@@ -19,7 +19,7 @@ namespace CustomerApi.DataAccess.Repositories.Concrete
 
         public IEnumerable<Client> GetAll()
         {
-            return context.Set<Client>().AsEnumerable();
+            return context.Set<Client>().Include("ClientAddress").AsEnumerable();
         }
 
         public void Create(Client client)

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nurban\\source\\repos\\CustomerApi\\CustomerApi.Business\\CustomerApi.BusinessLogic.csproj": {}
+    "C:\\Users\\nurban\\source\\repos\\Oriontek-test\\CustomerApi\\CustomerApi.Business\\CustomerApi.BusinessLogic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nurban\\source\\repos\\CustomerApi\\CustomerApi.Business\\CustomerApi.BusinessLogic.csproj": {
+    "C:\\Users\\nurban\\source\\repos\\Oriontek-test\\CustomerApi\\CustomerApi.Business\\CustomerApi.BusinessLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nurban\\source\\repos\\CustomerApi\\CustomerApi.Business\\CustomerApi.BusinessLogic.csproj",
+        "projectUniqueName": "C:\\Users\\nurban\\source\\repos\\Oriontek-test\\CustomerApi\\CustomerApi.Business\\CustomerApi.BusinessLogic.csproj",
         "projectName": "CustomerApi.BusinessLogic",
-        "projectPath": "C:\\Users\\nurban\\source\\repos\\CustomerApi\\CustomerApi.Business\\CustomerApi.BusinessLogic.csproj",
+        "projectPath": "C:\\Users\\nurban\\source\\repos\\Oriontek-test\\CustomerApi\\CustomerApi.Business\\CustomerApi.BusinessLogic.csproj",
         "packagesPath": "C:\\Users\\nurban\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nurban\\source\\repos\\CustomerApi\\CustomerApi.Business\\obj\\",
+        "outputPath": "C:\\Users\\nurban\\source\\repos\\Oriontek-test\\CustomerApi\\CustomerApi.Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nurban\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,14 +28,14 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\nurban\\source\\repos\\CustomerApi\\CustomerApi.Custom\\CustomerApi.Common.csproj": {
-                "projectPath": "C:\\Users\\nurban\\source\\repos\\CustomerApi\\CustomerApi.Custom\\CustomerApi.Common.csproj"
+              "C:\\Users\\nurban\\source\\repos\\Oriontek-test\\CustomerApi\\CustomerApi.Custom\\CustomerApi.Common.csproj": {
+                "projectPath": "C:\\Users\\nurban\\source\\repos\\Oriontek-test\\CustomerApi\\CustomerApi.Custom\\CustomerApi.Common.csproj"
               },
-              "C:\\Users\\nurban\\source\\repos\\CustomerApi\\CustomerApi.DataAccess\\CustomerApi.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\nurban\\source\\repos\\CustomerApi\\CustomerApi.DataAccess\\CustomerApi.DataAccess.csproj"
+              "C:\\Users\\nurban\\source\\repos\\Oriontek-test\\CustomerApi\\CustomerApi.DataAccess\\CustomerApi.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\nurban\\source\\repos\\Oriontek-test\\CustomerApi\\CustomerApi.DataAccess\\CustomerApi.DataAccess.csproj"
               },
-              "C:\\Users\\nurban\\source\\repos\\CustomerApi\\CustomerApi.Domain\\CustomerApi.Domain.csproj": {
-                "projectPath": "C:\\Users\\nurban\\source\\repos\\CustomerApi\\CustomerApi.Domain\\CustomerApi.Domain.csproj"
+              "C:\\Users\\nurban\\source\\repos\\Oriontek-test\\CustomerApi\\CustomerApi.Domain\\CustomerApi.Domain.csproj": {
+                "projectPath": "C:\\Users\\nurban\\source\\repos\\Oriontek-test\\CustomerApi\\CustomerApi.Domain\\CustomerApi.Domain.csproj"
               }
             }
           }
@@ -78,14 +78,14 @@
         }
       }
     },
-    "C:\\Users\\nurban\\source\\repos\\CustomerApi\\CustomerApi.Custom\\CustomerApi.Common.csproj": {
+    "C:\\Users\\nurban\\source\\repos\\Oriontek-test\\CustomerApi\\CustomerApi.Custom\\CustomerApi.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nurban\\source\\repos\\CustomerApi\\CustomerApi.Custom\\CustomerApi.Common.csproj",
+        "projectUniqueName": "C:\\Users\\nurban\\source\\repos\\Oriontek-test\\CustomerApi\\CustomerApi.Custom\\CustomerApi.Common.csproj",
         "projectName": "CustomerApi.Common",
-        "projectPath": "C:\\Users\\nurban\\source\\repos\\CustomerApi\\CustomerApi.Custom\\CustomerApi.Common.csproj",
+        "projectPath": "C:\\Users\\nurban\\source\\repos\\Oriontek-test\\CustomerApi\\CustomerApi.Custom\\CustomerApi.Common.csproj",
         "packagesPath": "C:\\Users\\nurban\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nurban\\source\\repos\\CustomerApi\\CustomerApi.Custom\\obj\\",
+        "outputPath": "C:\\Users\\nurban\\source\\repos\\Oriontek-test\\CustomerApi\\CustomerApi.Custom\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nurban\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -154,14 +154,14 @@
         }
       }
     },
-    "C:\\Users\\nurban\\source\\repos\\CustomerApi\\CustomerApi.DataAccess\\CustomerApi.DataAccess.csproj": {
+    "C:\\Users\\nurban\\source\\repos\\Oriontek-test\\CustomerApi\\CustomerApi.DataAccess\\CustomerApi.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nurban\\source\\repos\\CustomerApi\\CustomerApi.DataAccess\\CustomerApi.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\nurban\\source\\repos\\Oriontek-test\\CustomerApi\\CustomerApi.DataAccess\\CustomerApi.DataAccess.csproj",
         "projectName": "CustomerApi.DataAccess",
-        "projectPath": "C:\\Users\\nurban\\source\\repos\\CustomerApi\\CustomerApi.DataAccess\\CustomerApi.DataAccess.csproj",
+        "projectPath": "C:\\Users\\nurban\\source\\repos\\Oriontek-test\\CustomerApi\\CustomerApi.DataAccess\\CustomerApi.DataAccess.csproj",
         "packagesPath": "C:\\Users\\nurban\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nurban\\source\\repos\\CustomerApi\\CustomerApi.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\nurban\\source\\repos\\Oriontek-test\\CustomerApi\\CustomerApi.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nurban\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -178,8 +178,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\nurban\\source\\repos\\CustomerApi\\CustomerApi.Domain\\CustomerApi.Domain.csproj": {
-                "projectPath": "C:\\Users\\nurban\\source\\repos\\CustomerApi\\CustomerApi.Domain\\CustomerApi.Domain.csproj"
+              "C:\\Users\\nurban\\source\\repos\\Oriontek-test\\CustomerApi\\CustomerApi.Domain\\CustomerApi.Domain.csproj": {
+                "projectPath": "C:\\Users\\nurban\\source\\repos\\Oriontek-test\\CustomerApi\\CustomerApi.Domain\\CustomerApi.Domain.csproj"
               }
             }
           }
@@ -236,14 +236,14 @@
         }
       }
     },
-    "C:\\Users\\nurban\\source\\repos\\CustomerApi\\CustomerApi.Domain\\CustomerApi.Domain.csproj": {
+    "C:\\Users\\nurban\\source\\repos\\Oriontek-test\\CustomerApi\\CustomerApi.Domain\\CustomerApi.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nurban\\source\\repos\\CustomerApi\\CustomerApi.Domain\\CustomerApi.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\nurban\\source\\repos\\Oriontek-test\\CustomerApi\\CustomerApi.Domain\\CustomerApi.Domain.csproj",
         "projectName": "CustomerApi.Domain",
-        "projectPath": "C:\\Users\\nurban\\source\\repos\\CustomerApi\\CustomerApi.Domain\\CustomerApi.Domain.csproj",
+        "projectPath": "C:\\Users\\nurban\\source\\repos\\Oriontek-test\\CustomerApi\\CustomerApi.Domain\\CustomerApi.Domain.csproj",
         "packagesPath": "C:\\Users\\nurban\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nurban\\source\\repos\\CustomerApi\\CustomerApi.Domain\\obj\\",
+        "outputPath": "C:\\Users\\nurban\\source\\repos\\Oriontek-test\\CustomerApi\\CustomerApi.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nurban\\AppData\\Roaming\\NuGet\\NuGet.Config",

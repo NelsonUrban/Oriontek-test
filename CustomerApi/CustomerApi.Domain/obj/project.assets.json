@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nurban\\source\\repos\\CustomerApi\\CustomerApi.Domain\\CustomerApi.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\nurban\\source\\repos\\Oriontek-test\\CustomerApi\\CustomerApi.Domain\\CustomerApi.Domain.csproj",
       "projectName": "CustomerApi.Domain",
-      "projectPath": "C:\\Users\\nurban\\source\\repos\\CustomerApi\\CustomerApi.Domain\\CustomerApi.Domain.csproj",
+      "projectPath": "C:\\Users\\nurban\\source\\repos\\Oriontek-test\\CustomerApi\\CustomerApi.Domain\\CustomerApi.Domain.csproj",
       "packagesPath": "C:\\Users\\nurban\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nurban\\source\\repos\\CustomerApi\\CustomerApi.Domain\\obj\\",
+      "outputPath": "C:\\Users\\nurban\\source\\repos\\Oriontek-test\\CustomerApi\\CustomerApi.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nurban\\AppData\\Roaming\\NuGet\\NuGet.Config",

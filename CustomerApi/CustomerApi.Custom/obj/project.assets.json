@@ -277,11 +277,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nurban\\source\\repos\\CustomerApi\\CustomerApi.Custom\\CustomerApi.Common.csproj",
+      "projectUniqueName": "C:\\Users\\nurban\\source\\repos\\Oriontek-test\\CustomerApi\\CustomerApi.Custom\\CustomerApi.Common.csproj",
       "projectName": "CustomerApi.Common",
-      "projectPath": "C:\\Users\\nurban\\source\\repos\\CustomerApi\\CustomerApi.Custom\\CustomerApi.Common.csproj",
+      "projectPath": "C:\\Users\\nurban\\source\\repos\\Oriontek-test\\CustomerApi\\CustomerApi.Custom\\CustomerApi.Common.csproj",
       "packagesPath": "C:\\Users\\nurban\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nurban\\source\\repos\\CustomerApi\\CustomerApi.Custom\\obj\\",
+      "outputPath": "C:\\Users\\nurban\\source\\repos\\Oriontek-test\\CustomerApi\\CustomerApi.Custom\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nurban\\AppData\\Roaming\\NuGet\\NuGet.Config",
