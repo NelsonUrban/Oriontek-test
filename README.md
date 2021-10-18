@@ -10,15 +10,8 @@
  - Sql Server
  - Entity Framework core
  
- ### FrontEnd
- 
-  * remember run this command firt for install all the packages
+ ### FrontEnd 
 
-````
-
-npm install / npm i
-
-````
  - Angular 10
  - typeScript
  - Swal
@@ -39,6 +32,7 @@ npm install / npm i
 
 ## how to use it
 
+### Backend
 - you must the create the database, you can use this command in the layer DataAccess.
 
  ````
@@ -48,6 +42,16 @@ npm install / npm i
   ````
   
   - you run the project
+
+### FrontEnd
+
+  * remember run this command firt for install all the packages
+
+````
+
+npm install / npm i
+
+````
 
 
  
