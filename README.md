@@ -12,6 +12,13 @@
  
  ### FrontEnd
  
+  * remember run this command firt for install all the packages
+
+````
+
+npm install / npm i
+
+````
  - Angular 10
  - typeScript
  - Swal
@@ -32,13 +39,15 @@
 
 ## how to use it
 
-- first you must the create the database, you can use this command in the layer DataAccess.
+- you must the create the database, you can use this command in the layer DataAccess.
 
  ````
  
     update-database customer  
     
   ````
+  
+  - you run the project
 
 
  
