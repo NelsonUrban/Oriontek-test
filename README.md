@@ -33,7 +33,7 @@
 ## how to use it
 
 ### Backend
-- you must the create database, you can use this command in the layer DataAccess.
+- you must create database, you can use this command in the layer DataAccess.
 
  ````
  
