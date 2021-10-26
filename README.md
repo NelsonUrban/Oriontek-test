@@ -33,7 +33,7 @@
 ## how to use it
 
 ### Backend
-- you must the create the database, you can use this command in the layer DataAccess.
+- you must the create database, you can use this command in the layer DataAccess.
 
  ````
  
@@ -45,7 +45,7 @@
 
 ### FrontEnd
 
-  * remember run this command firt for install all the packages
+  * remember run this command first  install all the packages
 
 ````
 
